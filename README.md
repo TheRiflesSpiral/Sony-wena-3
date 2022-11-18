@@ -17,7 +17,10 @@ I've also tinkered with normal smartwatches a bit. I did wear the original Fitbi
 
 The obvious choice would be one of the dozens of excellent WearOS watches (being an Android user) or an Apple Watch (also being an Apple fan) but I came to the conclusion that my enjoyment of a watch doesn't have much to do with it's features. I like mechanical watches because of their utility, craftsmanship and ease of use. The wena 3 appeals to me because I can wear a mechanical watch and still get the limited smartwatch features I want. I hope. We'll see, I guess.
 
-### Challenges
+## Getting your hands on one
+Despite the wena 3 being a Japanese market only device, it's relatively easy to get your hands on one. Doing a simple Google Shopping search for "wena 3" will result in eBay auctions and electronic stores around the world that will ship to the U.S. The prices of the wena 3 are fairly low right now (and oddly lower than the earlier versions of the device) and I was able to order one, new in box, from Japan for under $250, with free shipping.
+
+## Challenges
 Most of the challenges I've encountered thus far are due to the wena 3 being intended for the Japanese market. As I encounter and overcome them, I'll add details below.
 
 #### 1. Installing the wena 3 App
