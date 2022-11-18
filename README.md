@@ -1,4 +1,4 @@
-# Sony-wena-3
+# Sony wena 3
 How to obtain, setup and use a Sony wena 3 Smart watch band in North America
 In this repository, I will keep all information gathered in my effort to use the Sony wena 3 smartwatch band in the U.S.A.
 ## What is a Sony wena 3?
