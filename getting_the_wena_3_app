@@ -1,4 +1,4 @@
-# Sony wena 3 app (Android)
+# Getting the Sony wena 3 app (Android)
 The wena 3 smartwatch band is connected to an app called "wena 3" available on the Google Play Store. If you're in Japan. Searching for the app from North America will either return a not-so-helpful "This application is not available in your region" message or, even less helpfully, simply refuse to return any search results.
 
 My initial thought was to simply load the Play Store while connected through a VPN server in Tokyo, tricking Google Services into thinking I was "in the region." However, the search behavior did not change. Googling "how to change region in Play Store" led me to a document at Google that explained you can only change your region once per year and that there are some fairly serious consequences to your google account when changing regions. So that was out.
@@ -14,4 +14,9 @@ I was able to get the wena 3 app installed on my device by following the procedu
 Once the app was installed I was able to run it but of course it's in Japanese so I needed a translator to make heads or tails of it.
 
 ### Google Lens
-Google lens is an Android (and iOS, I think) app that will translate from your camera or from images in your photo library. It easily and naturally translates Japanese to English.
+Google lens is an Android (and iOS, I think) app that will translate from your camera or from images in your photo library. It easily and naturally translates Japanese to English. Once Lens is installed on your device, the process of translating looks like this:
+1. Launch the wena 3 app
+2. Screenshot the phone. (That's usually done with a simultaneous press of the power and volume down buttons)
+3. Launch Google Lens and tap "Translate"
+4. To the left of the shutter button is the gallery icon. Tap to see photos in your gallery. (Mine had the Screenshots folder already selected)
+5. Tap the photo you want to translate.
