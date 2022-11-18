@@ -20,5 +20,7 @@ The obvious choice would be one of the dozens of excellent WearOS watches (being
 ### Challenges
 Most of the challenges I've encountered thus far are due to the wena 3 being intended for the Japanese market. As I encounter and overcome them, I'll add details below.
 
-#### 1. wena 3 App
-The first obstacle was installing the wena 3 app. Details about installing the app can be found on the details page here: https://github.com/TheRiflesSpiral/Sony-wena-3/blob/main/wena_3_app
+#### 1. Installing the wena 3 App
+The first obstacle was installing the wena 3 app. Details about installing the app can be found on the details page here: https://github.com/TheRiflesSpiral/Sony-wena-3/blob/main/getting_the_wena_3_app.md
+#### 2. Setup and User Account
+Like most apps these days, in order to use the wena 3 app you must set up an account with wena. I had major issues with this and ended up using my Apple account. Details about that process are here: https://github.com/TheRiflesSpiral/Sony-wena-3/blob/main/setting_up_the_wena_3_app.md
