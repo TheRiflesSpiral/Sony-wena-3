@@ -4,7 +4,7 @@ In this repository, I will keep all information gathered in my effort to use the
 ## What is a Sony wena 3?
 Read more about Sony here: https://en.wikipedia.org/wiki/Sony
 
-The Sony wena 3 is the third iteration of Sony Electronic's "smartwatch band" product. (Preceded by the wena wrist and wena active) Wena is a portamanteau of <i>W</i>ear <i>E</i>lectronics <i>Na</i>turally. It is essentially a limited-function smartwatch in the shape of a folding clasp found on traditional metal watch bands. It integrates a number of features including bluetooth, allowing it to connect to an iOS or Android device via the wena or wena 3 apps.
+The Sony wena 3 is the third iteration of Sony Electronic's "smartwatch band" product. (Preceded by the wena wrist and wena wrist pro/wena active) Wena is a portamanteau of <i>W</i>ear <i>E</i>lectronics <i>Na</i>turally. It is essentially a limited-function smartwatch in the shape of a folding clasp found on traditional metal watch bands. It integrates a number of features including bluetooth, allowing it to connect to an iOS or Android device via the wena or wena 3 apps.
 
 Read more about wena here: https://wena.jp/
 
