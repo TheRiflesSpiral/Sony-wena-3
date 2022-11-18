@@ -9,6 +9,6 @@ The next screen asks you to charge the device.
 ![wena 3 app Charge Device](https://github.com/TheRiflesSpiral/Sony-wena-3/blob/main/Images/sonywena3appcharge.png)
 
 The next screen asks you to turn on your device.
-![wena 3 app Power on Device](https://github.com/TheRiflesSpiral/Sony-wena-3/blob/main/Images/sonywena3apppoweron.png)
+![wena 3 app Power on Device](https://github.com/TheRiflesSpiral/Sony-wena-3/blob/main/Images/sonywena3appoweron.png)
 
 And that's where I'll have to leave it for now. I haven't received my wena 3 from Japan yet, so stay tuned!
